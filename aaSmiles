@@ -1,0 +1,35 @@
+Amino Acid codes & SMILES formula
+========================
+Jesus M. Castagnetto
+jesusmc@scripps.edu
+Jan. 10, 1998
+
+1-letter : 3-letter : Name : SMILES
+-----------------------------------
+A : Ala : Alanine : NC(C)C(=O)O
+R : Arg : Arginine : NC(CCCNC(N)=N)C(=O)O
+N : Asn : Asparagine : NC(CC(N)=O)C(=O)O
+D : Asp : Aspartic Acid : NC(CC(O)=O)C(=O)O
+C : Cys : Cysteine : NC(CS)C(=O)O
+Q : Gln : Glutamine : NC(CCC(N)=O)C(=O)O
+E : Glu : Glutamic acid : NC(CCC(O)=O)C(=O)O
+G : Gly : Glycine : NC([H])C(=O)O
+H : His : Histidine : NC(CC1=CNC=N1)C(=O)O
+I : Ile : Isoleucine : NC(C(CC)C)C(=O)O
+L : Leu : Leucine : NC(CC(C)C)C(=O)O
+K : Lys : Lysine : NC(CCCCN)C(=O)O
+M : Met : Methionine : NC(CCSC)C(=O)O
+F : Phe : Phenylalanine : NC(CC1=CC=CC=C1)C(=O)O
+P : Pro : Proline : N(CCC1)C1C(=O)O
+S : Ser : Serine : NC(CO)C(=O)O
+T : Thr : Threonine : NC(C(C)O)C(=O)O
+W : Trp : Tryptophan : NC(CC1=CNC2=C1C=CC=C2)C(=O)O
+Y : Tyr : Tyrosine : NC(CC1=CC=C(O)C=C1)C(=O)O
+V : Val : Valine : NC(C(C)C)C(=O)O
+
+Generic codes:
+--------------
+B : Asx : either D or N
+Z : Glx : either E or Q
+X : undetermined amino acid
+
